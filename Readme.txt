@@ -8,7 +8,7 @@ first input the number of cities we want to enter
 then in each line we enter the x co ordinate then the y co ordinate and then the name of city
 
 once you are done inputting all cities
-type the co ordinates from which u need the nearest city
+type the co ordinates from which u need the nearest city or when specified certin radius, we can search within that given radius too.
 
 To simulate a real life scenario, u can input the following:-
 
@@ -58,4 +58,4 @@ To simulate a real life scenario, u can input the following:-
 75 120 Rameswaram
 
 
-The output will give us the nearest city to the point you inputted
+The output will give us the nearest city to the point you inputted and also search cities within certain radius. 
