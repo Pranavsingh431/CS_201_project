@@ -1,3 +1,9 @@
+Team Members - 1.Pranav Singh - 2023mcb1308
+               2.Nishit Soni - 2023mcb1304
+               3.Prashant Singh - 2023mcb1309
+
+Mentor Name - Abdul Razique
+
 We are submitting two codes
 
 In one of them we implemented the normal quad tree which searches if a node is present in the tree or not.
